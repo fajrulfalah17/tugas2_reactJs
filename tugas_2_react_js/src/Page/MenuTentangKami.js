@@ -4,7 +4,7 @@ class MenuTentangKami extends Component {
     constructor(props) {
         super(props);
         this.state = {
-            tentang: "Warung Nusantara adlah restoran yang bernuansa makanan nusantara, Kami ada untuk menikmati makanan khas dari nusantara"
+            tentang: "Warung Nusantara adalah restoran yang bernuansa makanan nusantara, Kami ada untuk menikmati makanan khas dari nusantara"
         }
     }
     render() {
